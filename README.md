@@ -85,7 +85,7 @@ Ensure you have the following installed on your machine:
 - `yarn start`: Start the application.
 - `yarn lint`:  Automatically fix linting issues.
 - `yarn dev`: Start the application in development mode
-- `yarn format`: Runs Preitier to clean the code formatting
+- `yarn format`: Runs prettier for the code formatting
 - `yarn test`: Run all test cases
 
 ## API Documentation
